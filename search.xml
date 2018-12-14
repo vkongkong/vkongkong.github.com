@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[搭建个人博客Hexo]]></title>
-    <url>%2F2018%2F12%2F07%2F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2Hexo%2F</url>
-    <content type="text"><![CDATA[环境&amp;版本 OS：MacOS Mojove Hexo: V3.8.0 Node.js: V10.14.1 Git: Version 2.19.2 安装Node.js下载Node.js安装Node.js 安装Git下载Git 安装Hexo123456$ npm install hexo-cli -g$ hexo init blog $ cd blog$ cd blog$ npm install$ hexo server 注意使用npm命令如果出现报错，建议使用sudu权限]]></content>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F12%2F06%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
